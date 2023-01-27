@@ -186,6 +186,6 @@ files:
     \ score.\\n\" +\n                            \"In case the user loses, don't change\
     \ the score.\_\");\n        return CheckResult.correct();\n\n    }\n}\n"
   learner_created: false
-feedback_link: https://hyperskill.org/projects/314/stages/1768/implement#comment
+feedback_link: https://hyperskill.org/learn/step/24619#comment
 status: Unchecked
 record: -1

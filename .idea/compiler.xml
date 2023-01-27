@@ -8,6 +8,7 @@
       <module name="Rock-Paper-Scissors.Rock-Paper-Scissors-task-build-reports-tests.main" target="11" />
       <module name="Rock-Paper-Scissors.Rock-Paper-Scissors-task-build-test-results.main" target="11" />
       <module name="Rock-Paper-Scissors.Rock-Paper-Scissors-task-build-tmp.main" target="11" />
+      <module name="Rock-Paper-Scissors.Rock-Paper-Scissors-task-out.main" target="11" />
       <module name="Rock-Paper-Scissors.Rock-Paper-Scissors-task.main" target="11" />
       <module name="Rock-Paper-Scissors.util.main" target="11" />
     </bytecodeTargetLevel>

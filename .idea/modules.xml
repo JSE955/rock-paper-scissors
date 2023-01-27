@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rock-Paper-Scissors.iml" filepath="$PROJECT_DIR$/.idea/modules/Rock-Paper-Scissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rock-Paper-Scissors/task/Rock-Paper-Scissors.Rock-Paper-Scissors-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Rock-Paper-Scissors/task/Rock-Paper-Scissors.Rock-Paper-Scissors-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rock-Paper-Scissors/task/Rock-Paper-Scissors.Rock-Paper-Scissors-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rock-Paper-Scissors/task/Rock-Paper-Scissors.Rock-Paper-Scissors-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rock-Paper-Scissors/task/Rock-Paper-Scissors.Rock-Paper-Scissors-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rock-Paper-Scissors/task/Rock-Paper-Scissors.Rock-Paper-Scissors-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Rock-Paper-Scissors.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Rock-Paper-Scissors.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Rock-Paper-Scissors.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Rock-Paper-Scissors.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Rock-Paper-Scissors.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Rock-Paper-Scissors.util.test.iml" />
+    </modules>
+  </component>
+</project>

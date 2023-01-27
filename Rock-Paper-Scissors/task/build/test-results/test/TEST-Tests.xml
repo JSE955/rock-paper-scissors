@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-27T02:55:13" hostname="DESKTOP-NSDJ5D8" time="0.084">
+  <properties/>
+  <testcase name="start" classname="Tests" time="0.084"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+> rock
+?[1;31m
+Start test 2?[0m
+> paper
+?[1;31m
+Start test 3?[0m
+> scissors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
